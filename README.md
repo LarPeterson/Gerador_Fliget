@@ -8,3 +8,4 @@
   <br>
 <img src="https://github.com/LarPeterson/Gerador_Fliget/blob/main/Screenshots/Screenshot_3.png?raw=true" alt="Screenshot 3">
 </figure>
+<h2>biblioteca: https://pypi.org/project/pyfiglet/</h2>
